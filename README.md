@@ -24,7 +24,7 @@ npm run build && npm run preview
 
 ## Demonstration
 
-[Live](https://mentor-qr-code.netlify.app)
+[Live](https://mentor-qr-code-component.netlify.app)
 
 ## Authors
 
