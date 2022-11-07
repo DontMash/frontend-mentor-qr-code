@@ -4,7 +4,7 @@
 
 <main class="flex justify-center items-center min-h-screen p-6">
   <h1 class="sr-only">QR Component</h1>
-  <article class="max-w-xs p-4 bg-white rounded-2xl">
+  <article class="max-w-xs p-4 bg-white rounded-2xl shadow-xl">
     <picture class="block rounded-xl overflow-hidden">
       <img src="/images/image-qr-code.png" alt="QR Code" width="576" height="576" />
     </picture>
